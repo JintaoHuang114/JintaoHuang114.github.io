@@ -1,20 +1,13 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[//]: # ([![XX]&#40;https://img.shields.io/badge/XX-github-blue?logo=github&#41;]&#40;https://github.com/XX&#41;)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a PhD's degree in Data Mining at National University of Defense Technology.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>huangjintao18@nudt.edu.cn</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**National University of Defense Technology**, PhD Student in Data Mining (2022 – present)
+**National University of Defense Technology**, Undergraduate student (2018 – 2022)
 
 #### Research Interests  
-XX, XX, XX, XX.
+Multimodal Entity Linking.
