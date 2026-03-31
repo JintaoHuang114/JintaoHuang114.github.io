@@ -10,4 +10,4 @@ I'm currently pursuing a PhD's degree in Data Mining at National University of D
 **National University of Defense Technology**, Undergraduate student (2018 – 2022)
 
 #### Research Interests  
-Multimodal Entity Linking.
+Multimodal Entity Linking, Entity Resolution.
