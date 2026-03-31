@@ -7,6 +7,7 @@ I'm currently pursuing a PhD's degree in Data Mining at National University of D
 
 #### Education  
 **National University of Defense Technology**, PhD Student in Data Mining (2022 – present)
+
 **National University of Defense Technology**, Undergraduate student (2018 – 2022)
 
 #### Research Interests  
